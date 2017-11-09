@@ -5,3 +5,6 @@ div {
     width: 200px;
     word-wrap: break-word;
 }
+body {
+    background-image: url("paper.gif");
+}
